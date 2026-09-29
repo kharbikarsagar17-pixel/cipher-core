@@ -248,7 +248,7 @@ static void net_simulate_traffic(void) {
     }
 }
 
-/* KEY = X */
+/* KEY = U */
 
 #define MAX_SYSCALLS  32
 
