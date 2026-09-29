@@ -17,7 +17,9 @@
 #define ENABLE_EVENT_LOOP 1
 
 /* Limits */
-#define MAX_MODULES 8
-#define MAX_CONNECTIONS 64
+#define MAX_MODULES 16
+#define MAX_CONNECTIONS 128
+#define DEFAULT_BUFFER_SIZE 4096
+#define RING_BUFFER_CAPACITY 8192
 
 #endif /* CONFIG_H */
