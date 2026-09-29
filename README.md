@@ -12,6 +12,17 @@ A modular operating system simulator and cryptographic utilities library.
 - **zeta.c** - Thread pool implementation
 - **eta.c** - Database abstraction layer
 - **theta.c** - Event loop system
+- **iota.c** - Security and session authentication module
+- **kappa.c** - Logging framework with multiple levels and timestamps
+- **lambda.c** - Compression utilities with RLE algorithm
+- **mu.c** - Math and statistics module with mean and stddev functions
+- **nu.c** - String processing module with case conversion and word count
+- **xi.c** - XML parser module with hierarchical node stack
+- **omicron.c** - JSON parser module with token management
+- **pi.c** - Graph algorithms module with edge management
+- **rho.c** - Regular expression engine with pattern matching support
+- **sigma.c** - Signal processing module with FFT and filtering capabilities
+- **tau.c** - Time and date utilities with formatting functions
 
 ## Building
 
